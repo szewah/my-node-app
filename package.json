@@ -21,3 +21,5 @@
     "express": "^4.16.3"
   }
 }
+
+// describes high level information about an application and library
